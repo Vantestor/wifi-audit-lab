@@ -1,3 +1,18 @@
+
+# Laboratorio de Auditoría Wi-Fi
+
+Este repositorio documenta mi proceso de aprendizaje en ciberseguridad, realizando un pentesting a mi propia red doméstica.
+
+## 🎯 Objetivos del laboratorio
+*   Capturar un Handshake WPA2 (Raspberry Pi / Debian).
+*   Convertir el hash al formato de Hashcat.
+*   Realizar un ataque de diccionario (`rockyou.txt`) usando GPU (Windows 11).
+*   Documentar errores (RF-kill, CUDA, reglas de Hashcat) y sus soluciones.
+*   Aplicar lecciones de Blue Team (defensa y contraseñas robustas).
+
+
+
+
 📘 Manual de Laboratorio: Auditoría WPA2 y Ataque de Diccionario (Red Team vs Blue Team)
 Entorno:
 
