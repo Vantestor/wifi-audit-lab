@@ -1,0 +1,17 @@
+      _,met$$$$$gg.          
+    ,g$$$$$$$$$$$$$$$P.       -------------------
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 11 (bullseye) x86_64
+ ,$$P'              `$$$.     Host: N150P/N210P/N220P
+',$$P       ,ggs.     `$$b:   Kernel: 5.10.0-36-amd64
+`d$$'     ,$P"'   .    $$$    Uptime: 21 mins
+ $$P      d$'     ,    $$P    Packages: 2387 (dpkg)
+ $$:      $$.   -    ,d$$'    Shell: zsh 5.8
+ $$;      Y$b._   _,d$P'      Resolution: 1024x600
+ Y$$.    `.`"Y$$$$P"'         Terminal: /dev/pts/0
+ `$$b      "-.__              CPU: Intel Atom N450 (2) @ 1.667GHz
+  `Y$$                        GPU: Intel Atom Processor D4xx/D5xx/N4xx/N5xx
+   `Y$$.                      Memory: 385MiB / 1960MiB
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""
